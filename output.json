@@ -1,0 +1,472 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "SRXIJefzn5TLARaB3gpFO2T21kI",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "NL",
+    "pageInfo": {
+        "totalResults": 142789,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jwecANyc3mbcXpU1YRdTW8UMyt0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BcFgFQ77ovU"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-21T00:39:25Z",
+                "channelId": "UCZYB-S793vtg3nPPr6JL88w",
+                "title": "SF6 \u25b0 Tokido (Ken) VS Angry Bird (Akuma)  Grand Finals",
+                "description": "JUGADORES MAS RECONOCIDOS: Daigo Umehara: \"The Beast\", leyenda en Street Fighter y campe\u00f3n mundial. Tokido: H\u00e1bil y ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BcFgFQ77ovU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BcFgFQ77ovU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BcFgFQ77ovU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BcFgFQ77ovU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BcFgFQ77ovU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SF6 RANKED MATCH",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-21T00:39:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KrFaN3vXiuyamaazVFZWbDYON34",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KK_YPQd5NMA"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-29T16:53:09Z",
+                "channelId": "UCef7TE-TfKtAHukBHfXBhvA",
+                "title": "AngryBird vs Tokido | Street Fighter 6 at EWC 26 | Group Stage - VOD",
+                "description": "The Esports World Cup is back to write the next chapter in esports history! Witness the world's top clubs and players compete for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KK_YPQd5NMA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KK_YPQd5NMA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KK_YPQd5NMA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KK_YPQd5NMA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KK_YPQd5NMA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/KK_YPQd5NMA/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "EWC Extra",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-29T16:53:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8ylQ_PUDKZp1rHRccruWMVh0GjI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "reBSukwClBs"
+            },
+            "snippet": {
+                "publishedAt": "2026-09-13T15:17:51Z",
+                "channelId": "UCfkdpuZlvS5aG7RJwY1Muqw",
+                "title": "AngryBird (Akuma) vs Tokido (JP) | UFA2026  Day 2 - Street Fighter 6",
+                "description": "https://x.com/SF6Play https://linktr.ee/streetfighterplay Street Fighter Play AngryBird (Akuma) vs Tokido (JP) at UFA 2026 Day 2 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/reBSukwClBs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/reBSukwClBs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/reBSukwClBs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/reBSukwClBs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/reBSukwClBs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Street Fighter Play",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-09-13T15:17:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gkM5iG8gfuX2hUy8iOc6f4EwD10",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qGKGkKmmAeA"
+            },
+            "snippet": {
+                "publishedAt": "2026-05-25T23:00:06Z",
+                "channelId": "UCZYB-S793vtg3nPPr6JL88w",
+                "title": "SF6 \u25b0 Tokido (Ken) VS Angry Bird (Akuma)  HLG.",
+                "description": "JUGADORES MAS RECONOCIDOS: Daigo Umehara: \"The Beast\", leyenda en Street Fighter y campe\u00f3n mundial. Tokido: H\u00e1bil y ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qGKGkKmmAeA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qGKGkKmmAeA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qGKGkKmmAeA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qGKGkKmmAeA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qGKGkKmmAeA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SF6 RANKED MATCH",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-05-25T23:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pxLV2ledCn_gXJ6FdoWFP6ddMJE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3V1idpBKzBI"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-13T15:29:07Z",
+                "channelId": "UCu2Fxqf37DAZ0ZhIsd1FZwA",
+                "title": "REJECT\uff5c\u3068\u304d\u3069\uff08JP/C\uff09vs NINJAS IN PYJAMAS\uff5cANGRYBIRD\uff08\u8c6a\u9b3c/C\uff09\u300cGS1 Team Match3 EX Player Match\u300d\u3010SFLWC2025\u3011",
+                "description": "\u300cCAPCOM CUP 12\u300d2026\u5e743\u670811\u65e5(\u6c34) - 15(\u65e5)\u958b\u50ac   \u300c\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc\u300d\u30b7\u30ea\u30fc\u30ba\u3067\u4e16\u754c\u6700\u5f37\u3092\u6c7a\u3081\u308b\u30ab\u30d7\u30b3\u30f3\u516c\u5f0f ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3V1idpBKzBI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3V1idpBKzBI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3V1idpBKzBI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3V1idpBKzBI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3V1idpBKzBI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/3V1idpBKzBI/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "Capcom Fighters JP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-13T15:29:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sxMFW_qRZoyvZnOb5qvM8rtzc6M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ova8q9aNljg"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-08T08:50:39Z",
+                "channelId": "UCWSpTcusXN_8kw7e8TBZ6Sw",
+                "title": "Angry Bird (Ken) vs Tokido (Ken) - Elimination - Capcom Cup 11 - Top 16 to Grand Final",
+                "description": "Angry Bird (Ken) vs Tokido (Ken) - Elimination - Capcom Cup 11 - Top 16 to Grand Final.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ova8q9aNljg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ova8q9aNljg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ova8q9aNljg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ova8q9aNljg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ova8q9aNljg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mr Hot Gaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-08T08:50:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MMpKoAJe2664U1yDZa1ePjXeiog",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XnXyiL38Tcw"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-30T01:08:54Z",
+                "channelId": "UCu2Fxqf37DAZ0ZhIsd1FZwA",
+                "title": "\u3010\u8a66\u5408\u52d5\u753b\u3011RED DUNES ESPORTS | ANGRYBIRD VS  VARREL | TOKIDO\u3010EWC 2026\u3011",
+                "description": "EWC 2026 \u306e\u71b1\u6226\u3092\u632f\u308a\u8fd4\u308d\u3046\uff01 \u25c7\u25c7\u25c7\u25c7\u25c7\u25c7\u25c7\u25c7\u25c7\u25c7\u25c7\u25c7\u25c7\u25c7 \u30b9\u30ba\u30ad\u682a\u5f0f\u4f1a\u793e\u306f\u3001\u5e74\u9593\u3092\u901a\u3058\u3066\u682a\u5f0f\u4f1a\u793e\u30ab\u30d7\u30b3\u30f3\u306ee\u30b9\u30dd\u30fc\u30c4 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XnXyiL38Tcw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XnXyiL38Tcw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XnXyiL38Tcw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XnXyiL38Tcw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XnXyiL38Tcw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Capcom Fighters JP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-30T01:08:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8LmC8b0pE9JwUW1j_K9RXJ3X7Ik",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XBSTQt6czDM"
+            },
+            "snippet": {
+                "publishedAt": "2026-09-13T15:13:04Z",
+                "channelId": "UC9YVFhaAAJT_PyKBVAreKOg",
+                "title": "UFA \u2666 SF6 | TOKIDO (Jp) vs ANGRYBIRD (Akuma) \ud83d\udd25 Ultimate Fighting Arena - FR - Capcom Pro Tour 2026",
+                "description": "UFA #SF6 #StreetFighter6 #TOKIDO #ANGRYBIRD Ultimate Fighting Arena 2026 | Capcom Pro Tour 2026 \u2013 TOKIDO vs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XBSTQt6czDM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XBSTQt6czDM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XBSTQt6czDM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XBSTQt6czDM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XBSTQt6czDM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "qhd": {
+                        "url": "https://i.ytimg.com/vi/XBSTQt6czDM/qhddefault.jpg",
+                        "width": 2560,
+                        "height": 1440
+                    }
+                },
+                "channelTitle": "SF6 Fighting World X",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-09-13T15:13:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "D61OoiEmlmxvOwFapjdGYPnu_oE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0-0G696TssM"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-10T20:47:19Z",
+                "channelId": "UCZYB-S793vtg3nPPr6JL88w",
+                "title": "SF6 \u25b0 Tokido ( Ken ) VS Angry Bird ( Akuma )",
+                "description": "JUGADORES MAS RECONOCIDOS: Daigo Umehara: \"The Beast\", leyenda en Street Fighter y campe\u00f3n mundial. Tokido: H\u00e1bil y ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0-0G696TssM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0-0G696TssM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0-0G696TssM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0-0G696TssM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0-0G696TssM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SF6 RANKED MATCH",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-10T20:47:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SImZk7FKe6JefL5rhasGshB06Pc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RSRQdfa8sPY"
+            },
+            "snippet": {
+                "publishedAt": "2026-09-22T10:45:45Z",
+                "channelId": "UC4mfSIoJTyvkWgGlcd_lSrw",
+                "title": "[SF6] Tokido (JP) vs Angrybird (Akuma) Street Fighter 6 UFA 2026 Match - Capcom Pro Tour",
+                "description": "sf6 #\u8857\u97386 #\u5bfe\u6226\u52d5\u753b#tokido #angrybird #akuma #jp #\u65e5\u672c#\u6771\u5927\u751f#\u8c6a\u9b3c#\u6dd8\u6c70\u8cfd#cantonese #capcomprotour \u8857\u97386\u7684\u6cd5\u570b\u767d\u91d1 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RSRQdfa8sPY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RSRQdfa8sPY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RSRQdfa8sPY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RSRQdfa8sPY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RSRQdfa8sPY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    "fhd": {
+                        "url": "https://i.ytimg.com/vi/RSRQdfa8sPY/fhddefault.jpg",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                },
+                "channelTitle": "\u4e16\u754c\u76c3\u8857\u9738",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-09-22T10:45:45Z"
+            }
+        }
+    ]
+}
